@@ -1,0 +1,11 @@
+h1 {
+    color : red;
+    font-size: 40px;
+}
+.para {
+    color : blue;
+    font-size: 25px;
+}
+#bdy {
+    background-color: yellowgreen;
+}
